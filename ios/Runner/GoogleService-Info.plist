@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1092133476758-tihheimqlfi6o7p66bkek00eo37qr2gv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1092133476758-tihheimqlfi6o7p66bkek00eo37qr2gv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1092133476758-fultk8674o17705tdh8ei2jh18s6q5g9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOTvP5Sb_IfXBdGVsKOVxH_AxihO4zl90</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1092133476758</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebaseNotesApp</string>
+	<key>PROJECT_ID</key>
+	<string>simple-flutterfire-noteapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>simple-flutterfire-noteapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1092133476758:ios:0c9869db8e771a5f23a5b7</string>
+</dict>
+</plist>
